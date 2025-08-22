@@ -63,7 +63,7 @@
 
 ## 🌐 Conecte-se comigo  
 
-[![LinkedIn](https://img.shields.io/badge/-Thiago%20Santana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/)  
+[![LinkedIn](https://img.shields.io/badge/-Thiago%20Santana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/thiago-santana-b9b8b674)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:thiagosantana34@hotmail.com)  
 
 ---

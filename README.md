@@ -54,10 +54,17 @@
 
 ---
 
-## 📈 Estatísticas do GitHub  
+## 📈 Estatísticas do GitHub
 
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoSantana&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSantana&layout=compact&theme=radical)  
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thiagosantana34&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosantana34&layout=compact&theme=radical&langs_count=8&hide_border=true" />
+</p>
+
+<!-- Opcional: streak de commits -->
+<p align="left">
+  <img height="170" src="https://streak-stats.demolab.com?user=thiagosantana34&theme=radical&hide_border=true" />
+</p>
 
 ---
 
